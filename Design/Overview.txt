@@ -1,0 +1,56 @@
+Goals
+	Death should sting a bit
+	Wealth should be meaningful and risky
+	Building:  Shouldn't be able to just crap out a giant ship out of your backpack
+	Resources should be somewhat limited
+	
+Death
+	Quantum Mindstate storage, a powered base / CV device that also uses CPU
+		Stored minds degrade if power is down awhile
+		This might result in levels / skills lost
+	Cloners:
+		HV Cloners should probably be removed
+		Consume resources to relife people.  The higher level the player the more costly the relife.
+		Should this cause a respec?
+		Long duration debuff after relife.
+			Maybe have higher tier cloners with less of a debuff?
+	Option 1:
+		Dead is dead, but on death spawn a second long lasting bag with a memory cell
+		A friend can grab this and take you to a cloner, and you lose no experience.
+	Option 2:
+		Option 1 + can choose to relife to a backed up mindstate.  You'll reset back to the level
+		and skills of the stored mind.  This should cost something extra maybe?
+Wealth
+	Anything worth buying won't take credits.  Hard currency == more risk.
+	Jump points
+		Travel to another system should only work near a jump point
+		This will create travel lanes in space that can be worked by pirates
+	Loot taken from POI and piracy should be flagged as stolen
+		A pirate faction should trade in stolen stuff
+	Factional patrols scan for stolen goods?
+Resources
+	Server set to small, non respawning resources and no meteors.
+	SWG style planetwide mineral spawns (mantle mining)
+		Shifting areas of resources with concentrated areas that change randomly every few days
+		Resource concentrations will be tiered, with only a single type in an area per tier
+			T1	Iron, Copper, Silicon
+			T2	Cobalt, Neo, Sath, Prometheum
+			T3	Zasco, Erest, Gold, Pentaxid
+		Autominers would be used to mine these slowly
+		Survey devices
+			Attach to a nearby LCD to show concentrations in the area
+			Need to stay near the ground
+			Models
+				Bike	cheap and easy, short range
+				HV		cheapish and easy to make
+				SV		requires rarer resources (neo / sath / cobalt)
+				CV		Ultra rare resources and expensive (erest / zasco / gold)
+	Power conversion
+		Convert solar power into fusion batteries?
+Building
+	Blueprints should only build very small simple stuff out of the player's backpack if even that
+	Anything the player builds should be able to be saved to blueprint via some new mechanism
+		This allows players to save any cool stuff they make for creative mode / workshop etc
+	High end blueprints should be buildable at factional shipyards (except for bases)
+		This will cost alot of money, take a bit of time, and require shipping in vulnerable resources
+		pirates likely to attack on the way
