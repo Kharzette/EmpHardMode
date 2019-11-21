@@ -1,0 +1,22 @@
+Economy
+	Test if vendors can take gold coins only for items instead of credits
+		Also see if ingots can be taken
+	Make gold coins heavy
+	Recipe to turn coins back into ingots
+	
+Death
+	Test to see if a memory cell can be spawned in the death bag
+	Test to detect when the death bag despawns
+		On death bag despawn, spawn a new bag with memory cell
+	Have the mod move the player's save data while "dead" similar to how the permanent death mod works
+		What to do with ships / property in the interim?
+	Need to create a way to "use" the player's memory cell at a cloner
+		This would cause the mod to move the player's save data back
+	What to do with dead players logging in?
+Shipyards
+	See if a mod can spawn a ship from a blueprint
+	See if ownership can be granted to a player
+	Already have a way to do payment (look at clanwars mod)
+State
+	Figure out a good way to save / load state
+		Dead players, ships in progress, mantle resources etc

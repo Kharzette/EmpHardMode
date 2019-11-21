@@ -3,9 +3,11 @@ Goals
 	Wealth should be meaningful and risky
 	Building:  Shouldn't be able to just crap out a giant ship out of your backpack
 	Resources should be somewhat limited
+	Players shouldn't be able to make everything solo
 	
 Death
 	Quantum Mindstate storage, a powered base / CV device that also uses CPU
+		This device should generate a lot of cold, the way gens generate heat
 		Stored minds degrade if power is down awhile
 		This might result in levels / skills lost
 	Cloners:
@@ -30,13 +32,18 @@ Wealth
 	Factional patrols scan for stolen goods?
 Resources
 	Server set to small, non respawning resources and no meteors.
+		Mineral rocks should respawn though for new players
 	SWG style planetwide mineral spawns (mantle mining)
 		Shifting areas of resources with concentrated areas that change randomly every few days
+		Higher concentrations where crust is thinner
+			(lava worlds, hotspots)
 		Resource concentrations will be tiered, with only a single type in an area per tier
 			T1	Iron, Copper, Silicon
 			T2	Cobalt, Neo, Sath, Prometheum
 			T3	Zasco, Erest, Gold, Pentaxid
 		Autominers would be used to mine these slowly
+			Some areas / planets might not be suitable
+			(no planet in our solar system would work, crust too thick)
 		Survey devices
 			Attach to a nearby LCD to show concentrations in the area
 			Need to stay near the ground
@@ -54,3 +61,8 @@ Building
 	High end blueprints should be buildable at factional shipyards (except for bases)
 		This will cost alot of money, take a bit of time, and require shipping in vulnerable resources
 		pirates likely to attack on the way
+	Repairs?
+		What to do about repair-to-template?
+Skills
+	Even at max level, should be some things a player can't do
+	Specialization into different areas of crafting etc creating dependencies and market opportunities
