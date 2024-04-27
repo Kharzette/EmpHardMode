@@ -66,3 +66,6 @@ Building
 Skills
 	Even at max level, should be some things a player can't do
 	Specialization into different areas of crafting etc creating dependencies and market opportunities
+Missions
+	Cargo hauling
+	Enemy steal cargo?
